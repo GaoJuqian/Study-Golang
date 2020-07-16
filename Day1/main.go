@@ -38,7 +38,7 @@ func main() {
 	//	匿名变量
 	// _ 短下划线，用于忽略值、站位，不占用内存，命名空间
 	fmt.Println(a, b, c) // 输出相同
-	idea := 130183200001150855
+	idea := 1301832
 	fmt.Printf("%T\n", idea)
 }
 
