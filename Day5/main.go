@@ -5,6 +5,7 @@ import (
 	"sort"
 )
 
+// 切片
 func main() {
 	a := [...]int{11, 22, 33, 44, 55}
 	fmt.Println(a)
